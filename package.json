@@ -1,0 +1,7 @@
+{
+  "name": "empty_node_project",
+  "version": "1.0.0",
+  "description": "A node experiment",
+  "main": "index.js",
+  "license": "MIT"
+}
